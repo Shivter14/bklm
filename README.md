@@ -10,7 +10,8 @@ We can call these variables however we like, but for simplicity I'm going to ref
 > `charset_L` (L for Lowercase)
 > `charset_U` (U for Uppercase)
 > `charset_A` (A for the ALT key)
-With this system, we can convert a `getInput64.dll`/WinAPI keycode with this simple string expansion: ```bat
+With this system, we can convert a `getInput64.dll`/WinAPI keycode with this simple string expansion:
+```bat
 for %%k in (!keycode!) do if "!keysPressed!" neq "!keysPressed:-16-=!" (
   set "char=!charset_U:~%%k,1!"
 ) else if "!keysPressed!" neq "!keysPressed:-18-=!" (
