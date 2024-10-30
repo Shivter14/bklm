@@ -1,0 +1,3 @@
+@set "charset_L=                                                &é\"'(-è_çà)       azertyuiopqsdfghjklmwxcvbn     0123456789☼+=-,/                                                                          ,;:!/§                          ^$*ùµ¨"
+@set "charset_U=                                                1234567890       AZERTYUIOPQSDFGHJKLMWXCVBN     0123456789☼+=-./                                                                          ./?:!%                           £#[]"
+@set "charset_A=                                     ←↑→↓       œæ€¶¨£           \|@`{}                                                                                                             °~#&<>                              ±“”"
