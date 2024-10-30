@@ -1,0 +1,3 @@
+@set "charset_L=                                                1234567890'¡       qwertyuiopasdfghjklñzxcvbnm     0123456789☼+=-,/                                                                          ,.;:_                          ºª\\"
+@set "charset_U=                                                !"·$%&/()=?¿       QWERTYUIOPASDFGHJKLÑZXCVBNM     0123456789☼+=-./                                                                          <>|¿                          ^*+¨"
+@set "charset_A=                                                €¶               \|@`[]{}                                                                                                            &<>                             ±"
